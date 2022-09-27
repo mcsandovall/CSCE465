@@ -1,0 +1,1 @@
+This file will demosntrate the encryption methods available. On this task I will use 4 different ciphers and 3 different modes. Once I create all the files,I will check the differences and write the report.It is to note that I will need openssl for this task, thus I have installed it prior, to begining this experiment.
